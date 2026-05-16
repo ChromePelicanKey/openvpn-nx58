@@ -1,4 +1,4 @@
-
+vip App for OpenVPN - L2TP-support and kill-switch offers the most advanced OpenVPN app, with L2TP-support and kill-switch. Ideal for users who value privacy and security.
 
 
 
